@@ -1,0 +1,5 @@
+.venv
+/App/__pycache__
+*.pyc
+debug.log
+/App/*.pkl
